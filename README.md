@@ -12,3 +12,4 @@ public class CameraMovement : MonoBehaviour
         transform.position += movement;
     }
 }
+camera oist julosus
